@@ -3,7 +3,7 @@
 # Responsive_DashBoard
 Flutter Responsive Web, Tablet, Mobile News Application
 
--> Responsive widgets  
+-> Responsive Layouts  
 -> News from NewsApi.org api  
 -> Getx State Management  
 
